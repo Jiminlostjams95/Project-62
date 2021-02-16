@@ -1,0 +1,40 @@
+#img {
+    height: 250px;
+    width: 400px;
+    border: 5px double white;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-top: 15px;
+}
+
+body {
+    text-align: center;
+    background: rgb(231, 231, 233);
+    background: linear-gradient(276deg, rgba(231, 231, 233, 1) 16%, rgba(193, 221, 235, 1) 39%, rgba(167, 215, 237, 1) 62%, rgba(167, 215, 237, 1) 83%);
+}
+
+.line {
+    margin: 8px auto;
+    height: 5px;
+    width: 300px;
+    background-color: white;
+}
+.section{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+#MyCarousel{
+    background-image: url("https://lh4.googleusercontent.com/proxy/5tvVUXa3qU3GxmmZ9M6VVsargx4na91nigxzF_qpcP3872C2umOFPrh-fEh4BRH5giyuQZFvpJLLFch3vtorFBfyeYdT-BIvsV1cEw=s0-d");
+    background-repeat: no-repeat;
+}
